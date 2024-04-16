@@ -37,6 +37,6 @@ eferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnerkar&show_icons=true&locale=en&layout=compact" alt="yashnerkar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashnerkar&show_icons=true&locale=en" alt="yashnerkar" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashnerkar&" alt="yashnerkar" /></p>
