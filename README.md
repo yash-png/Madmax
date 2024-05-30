@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yash</h1>
-<h3 align="center">A MERN stack developer from India</h3>
+<h3 align="center">A Full stack developer!</h3>
 <a href="https://app.daily.dev/madmax45"><img src="https://api.daily.dev/devcards/v2/pjYLFBhwf.png?type=wide&r=7j5" width="652" alt="yash's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashnerkar&label=Profile%20views&color=0e75b6&style=flat" alt="yashnerkar" /> </p>
